@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cachés y herramientas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Empaquetado/build
+build/
+dist/
+*.deb
+*.buildinfo
+*.changes
+*.dsc
+*.tar.*
+
+# Archivos temporales del sistema/editor
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+

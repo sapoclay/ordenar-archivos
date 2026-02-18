@@ -1,0 +1,18 @@
+ordenar-archivos (1.0.3) unstable; urgency=medium
+
+  * Ajustes y mejoras de release.
+
+ -- sapoclay <admin@entreunosyceros.net>  Wed, 18 Feb 2026 10:22:36 +0100
+
+ordenar-archivos (1.0.2) unstable; urgency=medium
+
+  * Mejoras en integración y empaquetado.
+
+ -- sapoclay <admin@entreunosyceros.net>  Wed, 18 Feb 2026 10:19:55 +0100
+
+ordenar-archivos (1.0.1) unstable; urgency=medium
+
+  * Añade empaquetado .deb con integración contextual multi-gestor.
+  * Permite personalizar metadatos del paquete desde variables de entorno.
+
+ -- sapoclay <admin@entreunosyceros.net>  Wed, 18 Feb 2026 10:20:00 +0000
