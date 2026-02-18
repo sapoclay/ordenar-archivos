@@ -88,6 +88,12 @@ chmod +x packaging/release.sh
 ./packaging/release.sh 1.0.3 "Ajustes y mejoras de release."
 ```
 
+Si no pasas mensaje en `release.sh`, el changelog se completa automáticamente con commits recientes:
+
+```bash
+./packaging/release.sh 1.0.4
+```
+
 Validaciones del release:
 
 - Si la versión ya existe en `debian/changelog`, falla.
