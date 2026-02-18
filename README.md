@@ -1,5 +1,7 @@
 # Ordenar archivos por criterio (Ubuntu)
 
+![ordenar-archivos](https://github.com/user-attachments/assets/a5baf71b-7ede-47a6-9c0e-e665c5491d7b)
+
 Esta aplicación añade opciones de **Ordenar** en el menú contextual (clic derecho) para ordenar los archivos de la carpeta por:
 
 - **Extensión**
