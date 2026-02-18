@@ -1,3 +1,10 @@
+ordenar-archivos (1.0.5) unstable; urgency=medium
+
+  * feat: añadir ordenado por fecha/inicial, opción deshacer e integración contextual multi-gestor
+  * feat: Autogeneración de changelog
+
+ -- sapoclay <admin@entreunosyceros.net>  Wed, 18 Feb 2026 11:45:30 +0100
+
 ordenar-archivos (1.0.3) unstable; urgency=medium
 
   * Ajustes y mejoras de release.
